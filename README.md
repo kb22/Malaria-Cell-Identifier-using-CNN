@@ -1,5 +1,11 @@
 # Malaria-Cell-Identifier-using-CNN
 The project deals with using Convolutional Neural Network (CNN) in Keras to identify Malaria Cell images.
+The data is taken from Kaggle: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
+### Get the dataset
+1. Download the dataset from the website: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+2. Extract the `.zip` file and a folder will appear `cell_images`
+3. Copy the folder `cell_images` to the directory where the project is located (the folder `Malaria-Cell-Identifier-using-CNN`) as described below 
 
 ### Usage (With virtualenv environment)
 1. Clone the repository to your machine when inside a given directory
